@@ -1,0 +1,6 @@
+baseURL = "https://fengyiqicoder.github.io/hugo-ai-chatbot/"
+languageCode = "en-us"
+title = "Crumb & Crust"
+
+[params]
+  description = "A home baker's notes on sourdough."

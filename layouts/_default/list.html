@@ -1,0 +1,6 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<ul class="posts">
+  {{ range .Pages }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span>{{ .Date.Format "Jan 2, 2006" }}</span><p>{{ .Summary | plainify | truncate 140 }}</p></li>{{ end }}
+</ul>
+{{ end }}

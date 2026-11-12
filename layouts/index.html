@@ -1,0 +1,6 @@
+{{ define "main" }}
+<section class="intro"><h1>{{ .Site.Title }}</h1><p>{{ .Site.Params.description }} Starters, schedules, and what went wrong.</p></section>
+<ul class="posts">
+  {{ range where .Site.RegularPages "Section" "posts" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span>{{ .Date.Format "Jan 2, 2006" }}</span><p>{{ .Summary | plainify | truncate 140 }}</p></li>{{ end }}
+</ul>
+{{ end }}

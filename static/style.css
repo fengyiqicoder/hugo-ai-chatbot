@@ -1,0 +1,17 @@
+body { margin: 0; background: #fbf8f3; color: #2a241d; font: 18px/1.7 Georgia, "Iowan Old Style", serif; }
+header { border-bottom: 1px solid #e8dfd2; }
+nav, main, footer { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+nav { display: flex; gap: 22px; align-items: center; height: 62px; font-family: -apple-system, system-ui, sans-serif; font-size: 15px; }
+nav a { color: #7a6a58; text-decoration: none; }
+nav .brand { font: 700 21px Georgia, serif; color: #9a4f1f; margin-right: auto; }
+main { padding-top: 26px; padding-bottom: 70px; }
+h1 { font-size: 38px; line-height: 1.2; margin: 10px 0 6px; }
+h2 { font-size: 25px; margin: 34px 0 6px; }
+.date, .posts span { color: #8f8070; font: 14px -apple-system, system-ui, sans-serif; }
+.intro p { color: #6b5d4e; font-size: 20px; margin-top: 0; }
+.posts { list-style: none; padding: 0; }
+.posts li { padding: 16px 0; border-bottom: 1px solid #e8dfd2; }
+.posts a { font-size: 22px; color: #2a241d; text-decoration: none; font-weight: 700; margin-right: 12px; }
+.posts p { margin: 4px 0 0; color: #6b5d4e; font-size: 16px; }
+table { border-collapse: collapse; font-size: 16px; } td, th { border-bottom: 1px solid #e8dfd2; padding: 6px 12px 6px 0; text-align: left; }
+footer { border-top: 1px solid #e8dfd2; color: #8f8070; font: 14px -apple-system, system-ui, sans-serif; padding-top: 6px; padding-bottom: 30px; }
