@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crumb &amp; Crust</title>
+    <link>https://fengyiqicoder.github.io/hugo-ai-chatbot/</link>
+    <description>Recent content on Crumb &amp; Crust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fengyiqicoder.github.io/hugo-ai-chatbot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why my loaf came out flat (and how I fixed it)</title>
+      <link>https://fengyiqicoder.github.io/hugo-ai-chatbot/posts/why-my-loaf-was-flat/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fengyiqicoder.github.io/hugo-ai-chatbot/posts/why-my-loaf-was-flat/</guid>
+      <description>Three flat loaves in a row in October. Here is what it was, in the order I checked.
+The starter was not strong enough A starter that does not double within 6 hours of a feed is too weak to raise a loaf. Mine had slowed down because the kitchen got colder. Two feeds a day for three days, kept somewhere warm (the oven with only the light on), brought it back.</description>
+    </item>
+    
+    <item>
+      <title>My weekday sourdough schedule</title>
+      <link>https://fengyiqicoder.github.io/hugo-ai-chatbot/posts/my-sourdough-schedule/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fengyiqicoder.github.io/hugo-ai-chatbot/posts/my-sourdough-schedule/</guid>
+      <description>I work office hours, so my bread has to fit around them. This is the schedule I have used for a year, for one loaf with 500 g of flour.
+The night before At 10 pm I feed the starter: 20 g starter, 50 g flour, 50 g water. It sits on the counter overnight at about 22 °C.
+Day one    Time Step     7:00 am Mix 500 g flour with 350 g water and leave it (autolyse)   7:45 am Add 100 g starter and 10 g salt, squeeze it in   8:00 am One set of stretch and folds, then off to work   6:00 pm Bulk is done when the dough has grown about 50% and jiggles   6:30 pm Shape, put it in a floured banneton, cover, into the fridge    Day two Straight from the fridge, any time between 7 am and 7 pm.</description>
+    </item>
+    
+    <item>
+      <title>Making a sourdough starter from scratch</title>
+      <link>https://fengyiqicoder.github.io/hugo-ai-chatbot/posts/starter-from-scratch/</link>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fengyiqicoder.github.io/hugo-ai-chatbot/posts/starter-from-scratch/</guid>
+      <description>All you need is flour, water and a jar. Rye or whole wheat flour gets going faster than white flour.
+Days 1 to 3 Mix 50 g whole wheat flour with 50 g water in a jar, cover loosely, and leave it at room temperature. Every 24 hours, throw away all but 50 g and feed it 50 g flour and 50 g water.
+Days 4 to 7 Switch to feeding every 12 hours.</description>
+    </item>
+    
+  </channel>
+</rss>
